@@ -1,0 +1,4 @@
+{
+    "idf.pythonInstallPath": "/usr/bin/python3",
+    "cortex-debug.openocdPath": "${env:HOME}/apps/openocd-esp32/bin/openocd"
+}
